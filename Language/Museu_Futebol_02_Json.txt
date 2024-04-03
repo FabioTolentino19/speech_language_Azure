@@ -1,0 +1,101 @@
+{
+    "documents": [
+        {
+            "id": "id__1380",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.32,
+                "neutral": 0.02,
+                "negative": 0.66
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 146,
+                    "text": "Péssimo, não tem nada, só exposição de jogos (jogo de botão, coleções de pelúcias e chaveiros das copas do mundo) numa sala minúscula e sem nada.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 146,
+                    "length": 108,
+                    "text": "Para as crianças tem um espaço pequeno do lado de fora mas realmente não vale a pena, não percam seu tempo.\n",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.03,
+                                "negative": 0.97
+                            },
+                            "offset": 171,
+                            "length": 6,
+                            "text": "espaço",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.02,
+                                "negative": 0.98
+                            },
+                            "offset": 220,
+                            "length": 4,
+                            "text": "vale",
+                            "isNegated": true
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 227,
+                            "length": 4,
+                            "text": "pena",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.06,
+                        "negative": 0
+                    },
+                    "offset": 254,
+                    "length": 79,
+                    "text": "Obs: falaram que abrirá normalmente a partir de junho de 2024, melhor aguardar!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

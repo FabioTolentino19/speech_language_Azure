@@ -1,0 +1,972 @@
+[
+    {
+        "Id": "ba368055b45644e7bf0e4ac243bcfa07",
+        "RecognitionStatus": 0,
+        "Offset": 9600000,
+        "Duration": 20800000,
+        "Channel": 0,
+        "DisplayText": "Estamos testando aqui o português.",
+        "NBest": [
+            {
+                "Confidence": 0.9491587,
+                "Lexical": "estamos testando aqui o português",
+                "ITN": "estamos testando aqui o português",
+                "MaskedITN": "estamos testando aqui o português",
+                "Display": "Estamos testando aqui o português.",
+                "Words": [
+                    {
+                        "Word": "estamos",
+                        "Offset": 9600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 14800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 20000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 22800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "português",
+                        "Offset": 23600000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9491587,
+                "Lexical": "estamos testando aqui o português",
+                "ITN": "estamos testando aqui o português",
+                "MaskedITN": "estamos testando aqui o português",
+                "Display": "estamos testando aqui o português",
+                "Words": [
+                    {
+                        "Word": "estamos",
+                        "Offset": 9600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 14800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 20000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 22800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "português",
+                        "Offset": 23600000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9491587,
+                "Lexical": "estamos testando aqui o português",
+                "ITN": "estamos testando aqui o português",
+                "MaskedITN": "estamos testando aqui o português",
+                "Display": "estamos testando aqui o português",
+                "Words": [
+                    {
+                        "Word": "estamos",
+                        "Offset": 9600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 14800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 20000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 22800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "português",
+                        "Offset": 23600000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9491587,
+                "Lexical": "estamos testando aqui o português",
+                "ITN": "estamos testando aqui o português",
+                "MaskedITN": "estamos testando aqui o português",
+                "Display": "estamos testando aqui o português",
+                "Words": [
+                    {
+                        "Word": "estamos",
+                        "Offset": 9600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 14800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 20000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 22800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "português",
+                        "Offset": 23600000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9491587,
+                "Lexical": "estamos testando aqui o português",
+                "ITN": "estamos testando aqui o português",
+                "MaskedITN": "estamos testando aqui o português",
+                "Display": "estamos testando aqui o português",
+                "Words": [
+                    {
+                        "Word": "estamos",
+                        "Offset": 9600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "testando",
+                        "Offset": 14800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 20000000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 22800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "português",
+                        "Offset": 23600000,
+                        "Duration": 8400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "7bd92a28b241429e952af3bf058bc66a",
+        "RecognitionStatus": 0,
+        "Offset": 44700000,
+        "Duration": 20800000,
+        "Channel": 0,
+        "DisplayText": "Será que ele entende se eu falar bem rápido?",
+        "NBest": [
+            {
+                "Confidence": 0.93861574,
+                "Lexical": "será que ele entende se eu falar bem rápido",
+                "ITN": "será que ele entende se eu falar bem rápido",
+                "MaskedITN": "será que ele entende se eu falar bem rápido",
+                "Display": "Será que ele entende se eu falar bem rápido?",
+                "Words": [
+                    {
+                        "Word": "será",
+                        "Offset": 44700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 47900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ele",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "entende",
+                        "Offset": 50300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 53900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 55500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "rápido",
+                        "Offset": 59900000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.93861574,
+                "Lexical": "será que ele entende se eu falar bem rápido",
+                "ITN": "será que ele entende se eu falar bem rápido",
+                "MaskedITN": "será que ele entende se eu falar bem rápido",
+                "Display": "será que ele entende se eu falar bem rápido",
+                "Words": [
+                    {
+                        "Word": "será",
+                        "Offset": 44700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 47900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ele",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "entende",
+                        "Offset": 50300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 53900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 55500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "rápido",
+                        "Offset": 59900000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.93861574,
+                "Lexical": "será que ele entende se eu falar bem rápido",
+                "ITN": "será que ele entende se eu falar bem rápido",
+                "MaskedITN": "será que ele entende se eu falar bem rápido",
+                "Display": "será que ele entende se eu falar bem rápido",
+                "Words": [
+                    {
+                        "Word": "será",
+                        "Offset": 44700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 47900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ele",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "entende",
+                        "Offset": 50300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 53900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 55500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "rápido",
+                        "Offset": 59900000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.93861574,
+                "Lexical": "será que ele entende se eu falar bem rápido",
+                "ITN": "será que ele entende se eu falar bem rápido",
+                "MaskedITN": "será que ele entende se eu falar bem rápido",
+                "Display": "será que ele entende se eu falar bem rápido",
+                "Words": [
+                    {
+                        "Word": "será",
+                        "Offset": 44700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 47900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ele",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "entende",
+                        "Offset": 50300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 53900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 55500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "rápido",
+                        "Offset": 59900000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.93861574,
+                "Lexical": "será que ele entende se eu falar bem rápido",
+                "ITN": "será que ele entende se eu falar bem rápido",
+                "MaskedITN": "será que ele entende se eu falar bem rápido",
+                "Display": "será que ele entende se eu falar bem rápido",
+                "Words": [
+                    {
+                        "Word": "será",
+                        "Offset": 44700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 47900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "ele",
+                        "Offset": 49100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "entende",
+                        "Offset": 50300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 53900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 54700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 55500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 58300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "rápido",
+                        "Offset": 59900000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "77a2910bb58e46049361297d21fef0a7",
+        "RecognitionStatus": 0,
+        "Offset": 74700000,
+        "Duration": 26000000,
+        "Channel": 0,
+        "DisplayText": "Ou até mesmo se eu falar mais devagar.",
+        "NBest": [
+            {
+                "Confidence": 0.9370415,
+                "Lexical": "ou até mesmo se eu falar mais devagar",
+                "ITN": "ou até mesmo se eu falar mais devagar",
+                "MaskedITN": "ou até mesmo se eu falar mais devagar",
+                "Display": "Ou até mesmo se eu falar mais devagar.",
+                "Words": [
+                    {
+                        "Word": "ou",
+                        "Offset": 74700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 77500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 79900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 85500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 86700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 90300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "devagar",
+                        "Offset": 93500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9370415,
+                "Lexical": "ou até mesmo se eu falar mais devagar",
+                "ITN": "ou até mesmo se eu falar mais devagar",
+                "MaskedITN": "ou até mesmo se eu falar mais devagar",
+                "Display": "ou até mesmo se eu falar mais devagar",
+                "Words": [
+                    {
+                        "Word": "ou",
+                        "Offset": 74700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 77500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 79900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 85500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 86700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 90300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "devagar",
+                        "Offset": 93500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9370415,
+                "Lexical": "ou até mesmo se eu falar mais devagar",
+                "ITN": "ou até mesmo se eu falar mais devagar",
+                "MaskedITN": "ou até mesmo se eu falar mais devagar",
+                "Display": "ou até mesmo se eu falar mais devagar",
+                "Words": [
+                    {
+                        "Word": "ou",
+                        "Offset": 74700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 77500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 79900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 85500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 86700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 90300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "devagar",
+                        "Offset": 93500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9370415,
+                "Lexical": "ou até mesmo se eu falar mais devagar",
+                "ITN": "ou até mesmo se eu falar mais devagar",
+                "MaskedITN": "ou até mesmo se eu falar mais devagar",
+                "Display": "ou até mesmo se eu falar mais devagar",
+                "Words": [
+                    {
+                        "Word": "ou",
+                        "Offset": 74700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 77500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 79900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 85500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 86700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 90300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "devagar",
+                        "Offset": 93500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.9370415,
+                "Lexical": "ou até mesmo se eu falar mais devagar",
+                "ITN": "ou até mesmo se eu falar mais devagar",
+                "MaskedITN": "ou até mesmo se eu falar mais devagar",
+                "Display": "ou até mesmo se eu falar mais devagar",
+                "Words": [
+                    {
+                        "Word": "ou",
+                        "Offset": 74700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "até",
+                        "Offset": 77500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "mesmo",
+                        "Offset": 79900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 84300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 85500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 86700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 90300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "devagar",
+                        "Offset": 93500000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "b8332ef9ab364a90866f98fcdacae3f4",
+        "RecognitionStatus": 0,
+        "Offset": 113600000,
+        "Duration": 40800000,
+        "Channel": 0,
+        "DisplayText": "Acho que sim, estamos tendo sucesso nesta transcrição.",
+        "NBest": [
+            {
+                "Confidence": 0.90327185,
+                "Lexical": "acho que sim estamos tendo sucesso nesta transcrição",
+                "ITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "MaskedITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Display": "Acho que sim, estamos tendo sucesso nesta transcrição.",
+                "Words": [
+                    {
+                        "Word": "acho",
+                        "Offset": 113600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 118000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 119600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "estamos",
+                        "Offset": 126000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tendo",
+                        "Offset": 131600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sucesso",
+                        "Offset": 134400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nesta",
+                        "Offset": 140400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 144400000,
+                        "Duration": 10000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90327185,
+                "Lexical": "acho que sim estamos tendo sucesso nesta transcrição",
+                "ITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "MaskedITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Display": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Words": [
+                    {
+                        "Word": "acho",
+                        "Offset": 113600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 118000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 119600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "estamos",
+                        "Offset": 126000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tendo",
+                        "Offset": 131600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sucesso",
+                        "Offset": 134400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nesta",
+                        "Offset": 140400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 144400000,
+                        "Duration": 10800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90327185,
+                "Lexical": "acho que sim estamos tendo sucesso nesta transcrição",
+                "ITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "MaskedITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Display": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Words": [
+                    {
+                        "Word": "acho",
+                        "Offset": 113600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 118000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 119600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "estamos",
+                        "Offset": 126000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tendo",
+                        "Offset": 131600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sucesso",
+                        "Offset": 134400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nesta",
+                        "Offset": 140400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 144400000,
+                        "Duration": 10800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90327185,
+                "Lexical": "acho que sim estamos tendo sucesso nesta transcrição",
+                "ITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "MaskedITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Display": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Words": [
+                    {
+                        "Word": "acho",
+                        "Offset": 113600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 118000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 119600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "estamos",
+                        "Offset": 126000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tendo",
+                        "Offset": 131600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sucesso",
+                        "Offset": 134400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nesta",
+                        "Offset": 140400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 144400000,
+                        "Duration": 10800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.90327185,
+                "Lexical": "acho que sim estamos tendo sucesso nesta transcrição",
+                "ITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "MaskedITN": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Display": "acho que sim estamos tendo sucesso nesta transcrição",
+                "Words": [
+                    {
+                        "Word": "acho",
+                        "Offset": 113600000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 118000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "sim",
+                        "Offset": 119600000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "estamos",
+                        "Offset": 126000000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tendo",
+                        "Offset": 131600000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sucesso",
+                        "Offset": 134400000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "nesta",
+                        "Offset": 140400000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "transcrição",
+                        "Offset": 144400000,
+                        "Duration": 10800000
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "Id": "e75c751f4b91416e899e23ad3989d9b5",
+        "RecognitionStatus": 0,
+        "Offset": 5100000,
+        "Duration": 18800000,
+        "Channel": 0,
+        "DisplayText": "Why are you going there tomorrow?",
+        "NBest": [
+            {
+                "Confidence": 0.9703449,
+                "Lexical": "why are you going there tomorrow",
+                "ITN": "why are you going there tomorrow",
+                "MaskedITN": "why are you going there tomorrow",
+                "Display": "Why are you going there tomorrow?",
+                "Words": [
+                    {
+                        "Word": "why",
+                        "Offset": 5100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 9900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "you",
+                        "Offset": 11900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "going",
+                        "Offset": 13100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "there",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tomorrow",
+                        "Offset": 18300000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "1f6495f0df804177be06e0cc7d4c989a",
+        "RecognitionStatus": 0,
+        "Offset": 44300000,
+        "Duration": 35200000,
+        "Channel": 0,
+        "DisplayText": "Because I need to go there to find my friend.",
+        "NBest": [
+            {
+                "Confidence": 0.8625673,
+                "Lexical": "because i need to go there to find my friend",
+                "ITN": "because i need to go there to find my friend",
+                "MaskedITN": "because i need to go there to find my friend",
+                "Display": "Because I need to go there to find my friend.",
+                "Words": [
+                    {
+                        "Word": "because",
+                        "Offset": 44300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 49100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "need",
+                        "Offset": 49500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "go",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "there",
+                        "Offset": 55900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 66300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 67500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 71100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "friend",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7725231,
+                "Lexical": "'cause i need to go there to find my friend",
+                "ITN": "'cause i need to go there to find my friend",
+                "MaskedITN": "'cause i need to go there to find my friend",
+                "Display": "'cause i need to go there to find my friend",
+                "Words": [
+                    {
+                        "Word": "'cause",
+                        "Offset": 45100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 49100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "need",
+                        "Offset": 49500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 52300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "go",
+                        "Offset": 53900000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "there",
+                        "Offset": 55900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 66300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "find",
+                        "Offset": 67500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 71100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "friend",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    }
+                ]
+            }
+        ]
+    }
+]
